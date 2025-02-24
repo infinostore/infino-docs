@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4bd09271-767f-4dd2-9c1c-f2dd80651935" alt="infinoLogo" width="250">
+</p>
+
 ## This repository serves as the central documentation hub for **InfinoStore**. It contains essential information related to the Website's backend, frontend, routes, planning, and overall development structure and many more.
 
 ### 📂 What You'll Find Here: <br/><br/>
