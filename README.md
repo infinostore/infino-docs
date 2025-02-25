@@ -30,6 +30,5 @@
 
   - User Routes (SignUp, SignIn, me):
     <p align="center">
-      <img src="https://github.com/user-attachments/assets/d7710b2d-6596-4800-9540-a6bd15fa2681" alt="routesEndpoints" width="600">
+      <img src="https://github.com/user-attachments/assets/fb08bda2-49ba-44b0-8c0d-fff7f19b0113" alt="routesEndpoints" width="600">
     </p>
-
