@@ -20,3 +20,16 @@
 🚀 *Contributions*: Team members can update this repo to keep information up to date! <br/>
 
 📌 **Further updates and improvements will be continuously added to this repository to ensure all documentation remains current and relevant.**
+
+## Frontend, Backend & Other Important Repositories:
+[InfinoStore-Backend](https://github.com/infinostore/infino-api)
+
+<hr/>
+
+## Routing & Endpoints:
+
+  - User Routes (SignUp, SignIn, me):
+    <p align="center">
+      <img src="https://github.com/user-attachments/assets/d7710b2d-6596-4800-9540-a6bd15fa2681" alt="routesEndpoints" width="600">
+    </p>
+
